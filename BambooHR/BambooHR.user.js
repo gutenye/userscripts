@@ -3,6 +3,7 @@
 // @description Enhance BambooHR website
 // @version     1.0
 // @author      Guten
+// @homepageURL https://github.com/gutenye/userscripts/tree/main/BambooHR
 // @namespace   gutenye
 // @grant       GM.xmlHttpRequest
 // @match       https://*.bamboohr.com/home
