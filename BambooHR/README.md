@@ -4,7 +4,7 @@
 
 ## Features
 
-### Dispaly full avaialble vacation days
+### Display the full available vacation days
 
 | Before | After |
 |--------|--|
