@@ -8,4 +8,4 @@
 
 | Before | After |
 |--------|--|
-| <img src="./assets/before.png"> | <img src="./assets/after.png"> |
+| <img width="300" src="./assets/before.png"> | <img width="300" src="./assets/after.png"> |
